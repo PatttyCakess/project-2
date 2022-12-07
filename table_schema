@@ -1,0 +1,11 @@
+-- Query to check succsful upload
+select * from weather;
+
+select * from bikeshare;
+
+-- join tables on date
+select bikeshare.trip_id, bikeshare.date_, weather.avg_temp, bikeshare.trip_duration_seconds
+from bikeshare
+join weather
+on weather.date_ = bikeshare.date_
+order by bikeshare.date_;
