@@ -1,7 +1,8 @@
 # project-2
 Project 2 for Georgia Tech Bootcamp
+Group Members: Bronwyn Milne, Oluwatobi Adelaja, Patrick Brennan
 
-# Project Proposal
+# Project Overview
 
 Our project will be joining two sets of data: Toronto bikeshare data from the year 2017 and the daily weather data for the Toronto area for the same year.
 The data will be joined using a relational database, with the date used as the join point.
