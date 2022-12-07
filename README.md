@@ -1,5 +1,6 @@
 # project-2
 Project 2 for Georgia Tech Bootcamp
+
 Group Members: Bronwyn Milne, Oluwatobi Adelaja, Patrick Brennan
 
 # Project Overview
